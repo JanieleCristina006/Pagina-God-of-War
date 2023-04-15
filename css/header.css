@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+   
+  }
+
+img{
+    max-width: 100%;
+    width:40rem;
+    margin-left: -55px;
+    
+}
+
+nav{
+    display: flex;
+    
+    
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+
+li{
+    padding: 0.74rem;
+    margin-top: 10rem;
+}
+
+a{
+    font-size: 2rem;
+   margin-right: 13rem;
+   
+  
+}
+
+a:visited{
+    color:black;
+  
+    font-weight: bold;
+}
+
+  
